@@ -1,0 +1,6 @@
+{
+  "name": "WebtorStream - In-Browser Torrent & Magnet Video Player",
+  "description": "Stream torrent video files directly in your browser with Webtor embed SDK. Drag and drop .torrent files or paste magnet links with instant playback, subtitle support, and file inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
